@@ -1,0 +1,15 @@
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\bin\Debug\net9.0\Exercise2.exe
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\bin\Debug\net9.0\Exercise2.deps.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\bin\Debug\net9.0\Exercise2.runtimeconfig.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\bin\Debug\net9.0\Exercise2.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\bin\Debug\net9.0\Exercise2.pdb
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\Exercise2.AssemblyInfoInputs.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\Exercise2.AssemblyInfo.cs
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\Exercise2.sourcelink.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\Exercise2.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\refint\Exercise2.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\Exercise2.pdb
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\Exercise2.genruntimeconfig.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise2\obj\Debug\net9.0\ref\Exercise2.dll
