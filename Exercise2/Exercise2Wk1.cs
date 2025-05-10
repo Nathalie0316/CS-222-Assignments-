@@ -1,11 +1,12 @@
 ﻿using System;
 
-class Program
+class Exercise2Wk1
 {
     static void Main()
     {
+        Console.WriteLine(new string('-', 100));
         Console.WriteLine("{0,-10} {1,15} {2,30} {3,30}", "Type", "Byte(s) of memory", "Min", "Max");
-        Console.WriteLine(new string('-', 90));
+        Console.WriteLine(new string('-', 100));
 
         DisplayInfo<sbyte>("sbyte");
         DisplayInfo<byte>("byte");
