@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Nathalie C. Lezama
+using System;
 
 class Exercise2Wk1
 {
