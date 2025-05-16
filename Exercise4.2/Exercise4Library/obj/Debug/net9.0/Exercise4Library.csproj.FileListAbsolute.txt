@@ -1,0 +1,12 @@
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\bin\Debug\net9.0\Exercise4Library.deps.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\bin\Debug\net9.0\Exercise4Library.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\bin\Debug\net9.0\Exercise4Library.pdb
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\obj\Debug\net9.0\Exercise4Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\obj\Debug\net9.0\Exercise4Library.AssemblyInfoInputs.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\obj\Debug\net9.0\Exercise4Library.AssemblyInfo.cs
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\obj\Debug\net9.0\Exercise4Library.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\obj\Debug\net9.0\Exercise4Library.sourcelink.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\obj\Debug\net9.0\Exercise4Library.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\obj\Debug\net9.0\refint\Exercise4Library.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\obj\Debug\net9.0\Exercise4Library.pdb
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise4.2\Exercise4Library\obj\Debug\net9.0\ref\Exercise4Library.dll

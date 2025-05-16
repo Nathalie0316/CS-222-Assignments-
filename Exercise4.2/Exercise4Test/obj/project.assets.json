@@ -411,6 +411,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Exercise4Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Exercise4Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise4Library.dll": {}
+        }
       }
     }
   },
@@ -932,10 +942,16 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Exercise4Library/1.0.0": {
+      "type": "project",
+      "path": "../Exercise4Library/Exercise4Library.csproj",
+      "msbuildProject": "../Exercise4Library/Exercise4Library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "Exercise4Library >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
@@ -966,7 +982,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise4.2\\Exercise4Library\\Exercise4Library.csproj": {
+              "projectPath": "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise4.2\\Exercise4Library\\Exercise4Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
