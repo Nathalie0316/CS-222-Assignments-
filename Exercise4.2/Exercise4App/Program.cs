@@ -19,7 +19,7 @@ class Ex4Program
         {
             // Call the PrimeFactors method 
             string results = PrimeFactorization.PrimeFactors(num);
-            Console.WriteLine($"The Prime Factors of {num} are: {results}."); // Display method results
+            Console.WriteLine("The Prime Factors of " + num + "are: " + results + "."); // Display method results
         }
         else
         {
