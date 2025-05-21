@@ -1,0 +1,15 @@
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\bin\Debug\net9.0\Exercise6.exe
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\bin\Debug\net9.0\Exercise6.deps.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\bin\Debug\net9.0\Exercise6.runtimeconfig.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\bin\Debug\net9.0\Exercise6.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\bin\Debug\net9.0\Exercise6.pdb
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\Exercise6.AssemblyInfoInputs.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\Exercise6.AssemblyInfo.cs
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\Exercise6.sourcelink.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\Exercise6.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\refint\Exercise6.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\Exercise6.pdb
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\Exercise6.genruntimeconfig.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise6.2\Exercise6\obj\Debug\net9.0\ref\Exercise6.dll

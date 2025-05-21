@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise02\\Exercise02.csproj": {}
+    "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise6\\Exercise6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise02\\Exercise02.csproj": {
+    "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise6\\Exercise6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise02\\Exercise02.csproj",
-        "projectName": "Exercise02",
-        "projectPath": "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise02\\Exercise02.csproj",
+        "projectUniqueName": "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise6\\Exercise6.csproj",
+        "projectName": "Exercise6",
+        "projectPath": "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise6\\Exercise6.csproj",
         "packagesPath": "C:\\Users\\Nathalie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise02\\obj\\",
+        "outputPath": "C:\\Users\\Nathalie\\OneDrive\\Documents\\GitHub\\CS-222-Assignments-\\Exercise6.2\\Exercise6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nathalie\\AppData\\Roaming\\NuGet\\NuGet.Config"
