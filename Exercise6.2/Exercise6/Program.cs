@@ -7,10 +7,12 @@ May 27th, 2025
 
 using System;
 
+// Program class for Console App 
 class Program
 {
     static void Main()
     {
+        // Creating and printing the instances of each class as specified in the exercise instructions      
         var r = new Rectangle(3, 4.5);
         Console.WriteLine($"Rectangle H: {r.Height}, W: {r.Width}, Area: {r.Area}");
 
