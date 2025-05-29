@@ -13,6 +13,6 @@ public abstract class Shape
      // Property to store width
     public double Width { get; set; }
 
-    // Abstract property for area (each subclass needs to override with their own implementation for it to work)
+    // Abstract property for area (each subclass will override with their own implementation for it to work)
     public abstract double Area { get; }
 }
