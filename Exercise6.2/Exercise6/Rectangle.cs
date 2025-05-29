@@ -5,7 +5,7 @@ Assignment 3 (Exercise 6.2)
 May 29th, 2025
 */ 
 
-// "Child' class Rectangle that is extended from the Shape Class
+// "Child" class Rectangle that is extended from the Shape Class
 public class Rectangle : Shape
 {
     // Constructor that takes the height and width of the rectangle as parameters

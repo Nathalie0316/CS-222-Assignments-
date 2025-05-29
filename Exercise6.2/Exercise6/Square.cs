@@ -5,7 +5,7 @@ Assignment 3 (Exercise 6.2)
 May 29th, 2025
 */ 
 
-// "Child' class Square that is extended from the Shape Class
+// "Child" class Square that is extended from the Shape Class
 public class Square : Shape
 {
 

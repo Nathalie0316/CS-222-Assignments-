@@ -7,7 +7,7 @@ May 29th, 2025
 
 using System;
 
-// "Child' class Circle that is extended from the Shape Class
+// "Child" class Circle that is extended from the Shape Class
 public class Circle : Shape
 {
     // Constructor that takes the radius of the circle as a parameter
