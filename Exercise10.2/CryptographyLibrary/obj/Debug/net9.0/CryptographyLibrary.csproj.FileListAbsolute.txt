@@ -1,0 +1,12 @@
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\bin\Debug\net9.0\CryptographyLibrary.deps.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\bin\Debug\net9.0\CryptographyLibrary.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\bin\Debug\net9.0\CryptographyLibrary.pdb
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\obj\Debug\net9.0\CryptographyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\obj\Debug\net9.0\CryptographyLibrary.AssemblyInfoInputs.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\obj\Debug\net9.0\CryptographyLibrary.AssemblyInfo.cs
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\obj\Debug\net9.0\CryptographyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\obj\Debug\net9.0\CryptographyLibrary.sourcelink.json
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\obj\Debug\net9.0\CryptographyLibrary.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\obj\Debug\net9.0\refint\CryptographyLibrary.dll
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\obj\Debug\net9.0\CryptographyLibrary.pdb
+C:\Users\Nathalie\OneDrive\Documents\GitHub\CS-222-Assignments-\Exercise10.2\CryptographyLibrary\obj\Debug\net9.0\ref\CryptographyLibrary.dll
