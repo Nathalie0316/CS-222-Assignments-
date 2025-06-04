@@ -1,16 +1,46 @@
 ﻿using System;
+using System.IO;
 using System.Security.Cryptography;
 using System.Text;
-using System.IO;
+using System.Xml.Linq;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Encryption and Hashing Setup Complete.");
+        string xml =
+@"<?xml version='1.0' encoding='utf-8'?>
+<customers>
+  <customer>
+    <name>Bob Smith</name>
+    <creditcard>1234-5678-9012-3456</creditcard>
+    <password>Pa$$w0rd</password>
+  </customer>
+</customers>";
+
+        var doc = XDocument.Parse(xml);
+        var customer = doc.Root.Element("customer");
+
+        string creditCard = customer.Element("creditcard").Value;
+        string password = customer.Element("password").Value;
+
+        // Encrypt credit card
+        (byte[] encryptedCard, byte[] key, byte[] iv) = EncryptString(creditCard);
+
+        // Hash password
+        (string hashedPassword, string salt) = HashPassword(password);
+
+        // Update XML
+        customer.SetElementValue("creditcard", Convert.ToBase64String(encryptedCard));
+        customer.SetElementValue("password", hashedPassword);
+        customer.Add(new XElement("salt", salt));
+        customer.Add(new XElement("key", Convert.ToBase64String(key)));
+        customer.Add(new XElement("iv", Convert.ToBase64String(iv)));
+
+        Console.WriteLine(doc);
     }
 
-    // AES encryption
+    // AES Encryption
     static (byte[] EncryptedData, byte[] Key, byte[] IV) EncryptString(string plainText)
     {
         using Aes aes = Aes.Create();
@@ -26,7 +56,7 @@ class Program
         return (encrypted, aes.Key, aes.IV);
     }
 
-    // AES decryption
+    // AES Decryption (optional)
     static string DecryptString(byte[] cipherText, byte[] key, byte[] iv)
     {
         using Aes aes = Aes.Create();
@@ -38,7 +68,7 @@ class Program
         return sr.ReadToEnd();
     }
 
-    // Hashing with salt
+    // Password Hashing with Salt
     static (string Hash, string Salt) HashPassword(string password)
     {
         byte[] salt = new byte[16];
@@ -51,4 +81,3 @@ class Program
         return (Convert.ToBase64String(hash), Convert.ToBase64String(salt));
     }
 }
-
