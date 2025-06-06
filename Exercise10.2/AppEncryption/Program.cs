@@ -37,7 +37,7 @@ class Program
         Console.Write("Enter a password to encrypt the credit card: ");
         string encryptionPassword = Console.ReadLine();
         
-        // Encrypting the credit card number using our Protector class and the password entered by the user
+        // Encrypting the credit card number using the Protector class and the password entered by the user
         string encryptedCard = Protector.Encrypt(creditCard, encryptionPassword);
         string salt = Protector.GenerateRandomSalt();
         string hashedPassword = Protector.SaltAndHashPassword(password, salt);
