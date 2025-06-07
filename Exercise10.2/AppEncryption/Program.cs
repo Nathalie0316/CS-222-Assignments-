@@ -34,7 +34,7 @@ class Program
         string password = customer.Element("password").Value;
 
         // Prompting users to enter a password to use for encrypting 
-        Console.Write("Enter a password to encrypt the credit card: ");
+        Console.Write("Please enter a password to encrypt the credit card: ");
         string encryptionPassword = Console.ReadLine();
         
         // Encrypting the credit card number using the Protector class and the password entered by the user
