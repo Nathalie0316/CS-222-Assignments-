@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CryptographyLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a22043559cea532e95796c147fc17f88debff952")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc2abc9e43a01bb2c8b64f9af4213f664dfa43fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CryptographyLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CryptographyLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
