@@ -1,0 +1,43 @@
+Title: Password Vault
+
+Purpose:
+The purpose of this application is to store and manage user passwords using AES encryption for added security. 
+The app allows the user to enter a master password used to encrypt and decrypt all other passwords that are 
+stored in a SQLite database.
+
+On the application users can:
+    1. Add a password with a personalized title 
+    2. View their stored passwords
+    3. Delete a password
+
+Concepts from this class used in this project:
+    - Console-based User Interaction
+    - Encryption & Decryption
+    - Using a SQLite database
+
+---
+
+Sample Data Used for Testing
+
+Master Password: natlezama
+
+Test Case 1:
+Title: Netflix
+Password: pass1234
+
+Test Case 2:
+Title: DisneyPlus
+Password: disneyPass1234
+
+
+Output When Viewing:
+1: Netflix - pass1234
+2: DisneyPlus - disneyPass1234
+
+Test Case 3 (Delete Test):
+Deleted ID: 1  
+
+Output: Netflix entry no longer appears as 1
+
+---
+Author: Nathalie Lezama
