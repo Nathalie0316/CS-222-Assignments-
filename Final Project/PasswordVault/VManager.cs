@@ -1,16 +1,26 @@
+/*
+Nathalie C. Lezama
+CS 222 C# Programming
+Final Project Assignment
+June 20th, 2025
+*/ 
+
 using Microsoft.Data.Sqlite;
 
+// Managing password vault operations like add, view, and delete
 public class VManager
 {
-    private readonly string _connectionString = "Data Source=vault.db";
+    private readonly string _connectionString = "Data Source=vault.db"; // SQLite DB file
     private readonly string _masterPassword;
 
+    // Constructor initializing DB and stores password
     public VManager(string masterPassword)
     {
         _masterPassword = masterPassword;
         InitializeDatabase();
     }
 
+    // Create table if it doesn't exist
     private void InitializeDatabase()
     {
         using var conn = new SqliteConnection(_connectionString);
@@ -26,6 +36,7 @@ public class VManager
         tableCmd.ExecuteNonQuery();
     }
 
+    // Adding a new encrypted password entry to the db
     public void AddPassword(string title, string plainPassword)
     {
         var encrypted = PassEncryption.Encrypt(plainPassword, _masterPassword);
@@ -40,6 +51,7 @@ public class VManager
         cmd.ExecuteNonQuery();
     }
 
+    // Decrypting and displaying password entries
     public void ViewPasswords()
     {
         using var conn = new SqliteConnection(_connectionString);
@@ -59,6 +71,7 @@ public class VManager
         }
     }
 
+    // Deleting a password entry by its ID
     public void DeletePassword(int id)
     {
         using var conn = new SqliteConnection(_connectionString);
